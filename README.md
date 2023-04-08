@@ -146,7 +146,7 @@ This project was created to make the developer's life easier when creating data 
 
     * Windows 
     ```sh
-     venv/scripts/activate
+     venv\scripts\activate
     ```
 
 5. Install as dependencies.
